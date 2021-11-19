@@ -1,7 +1,8 @@
 li a {
-    color: green;
+    color: white;
 }
 
 body {
+    align-content: center;
     background: white url("images/alien.gif") no-repeat;
 }
